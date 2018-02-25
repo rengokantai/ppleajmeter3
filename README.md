@@ -10,4 +10,5 @@ Elements:
 
 
 ### Recording the Application Under Test with JMeter
-workbench add->non-test elements->HTTPS Test Script Recorder
+workbench add->non-test elements->HTTPS Test Script Recorder  
+Thread group->recording controller
